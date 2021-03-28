@@ -1,5 +1,5 @@
 {
-  "name": "@username/publish-to-npm",
+  "name": "@raydedon/publish-to-npm",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
